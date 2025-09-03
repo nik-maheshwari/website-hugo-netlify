@@ -1,16 +1,13 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Nikunj Maheshwari, PhD
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nikunj
+last_name: Maheshwari
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
@@ -23,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Manager, AI & Data
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: EY Ireland
+    url: https://www.ey.com/en_ie/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,42 +47,23 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Generative AI
+  - Machine Learning
+  - Big Data Analytics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD Computational Infection Biology
+    institution: University College Dublin, Ireland
+    year_start: 2013
+    year_end: 2017
+  - area: MSc in Bioinformatics
+    institution: Kings College London, UK
+    year_start: 2011
+    year_end: 2012
+  - area: BTech in Bioinformatics
+    institution: SASTRA University, India
+    year_start: 2007
+    year_end: 2011
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -186,4 +164,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nik is an accomplished data scientist/solution architect with over 9 years of experience in hands-on experience, and leading and managing data science teams. He has proven track record of delivering high impact data science and analytics use cases (think Covid modelling, policy evaluations) that enable strategic transformation goals. He is adept at designing, developing and implementing analytics-as-a-service (AaaS) solutions that maximize the value of data. He has worked in several large-scale domains such as government, life sciences, advanced manufacturing, healthcare, food, and bioinformatics. His previous solutions have won Project of the Year Award or are commercially licensed.
