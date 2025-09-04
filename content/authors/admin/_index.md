@@ -143,6 +143,8 @@ languages:
 
 ## About Me
 
+⭐**On a career break in Melbourne/SE Asia**⭐
+
 Nik is an accomplished data scientist/solution architect with over 9 years of experience in hands-on experience, and leading and managing data science teams. He has proven track record of delivering high impact data science and analytics use cases (think Covid modelling, policy evaluations) that enable strategic transformation goals. He is adept at designing, developing and implementing analytics-as-a-service (AaaS) solutions that maximize the value of data. He has worked in several large-scale domains such as government, life sciences, advanced manufacturing, healthcare, food, and bioinformatics. His previous solutions have won Project of the Year Award or are commercially licensed.
 
 Apart from working full time, Nik enjoys **tutoring** and **mentoring** data science and computer science fundamentals to students and professionals as a part-time hobby. You can check out his public tutoring profile [here](https://www.firsttutors.com/ireland/tutor/nikunj.maths.computer-skills/). Please see [Services](/services) and [Testimonials](/testimonials) for more information.
