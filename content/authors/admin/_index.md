@@ -33,12 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:datasciencenik@gmail.com'
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/drnikunj/
+  - icon: brands/github
+    url: https://www.github.com/nik-maheshwari
   - icon: brands/instagram
     url: https://www.instagram.com/drnikunjmaheshwari
-  - icon: brands/github
-    url: https://github.com/nik-maheshwari
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/drnikunj
 
 interests:
   - Generative AI
