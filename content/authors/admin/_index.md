@@ -31,20 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:datasciencenik@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/drnikunjmaheshwari
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nik-maheshwari
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/drnikunj
 
 interests:
   - Generative AI
@@ -151,4 +145,4 @@ languages:
 
 Nik is an accomplished data scientist/solution architect with over 9 years of experience in hands-on experience, and leading and managing data science teams. He has proven track record of delivering high impact data science and analytics use cases (think Covid modelling, policy evaluations) that enable strategic transformation goals. He is adept at designing, developing and implementing analytics-as-a-service (AaaS) solutions that maximize the value of data. He has worked in several large-scale domains such as government, life sciences, advanced manufacturing, healthcare, food, and bioinformatics. His previous solutions have won Project of the Year Award or are commercially licensed.
 
-Apart from working full time, Nik enjoys `tutoring` and `mentoring` data science and computer science fundamentals to students and professionals as a part-time hobby. You can check out his public profile [here](https://www.firsttutors.com/ireland/tutor/nikunj.maths.computer-skills/). Please see [Services](/services) for more information or use the [Contact form](/#contact) for a free consultation.
+Apart from working full time, Nik enjoys **tutoring** and **mentoring** data science and computer science fundamentals to students and professionals as a part-time hobby. You can check out his public tutoring profile [here](https://www.firsttutors.com/ireland/tutor/nikunj.maths.computer-skills/). Please see [Services](/services) and [Testimonials](/testimonials) for more information.

@@ -6,9 +6,13 @@ title: "Testimonials"
 view: article-grid
 ---
 
-My previous clients, ranging from `students` to leading `professionals`, have been extremely satisfied with my way of teaching, coupled with my experience and dedication. I have a 100% success rate i.e. when I decide to take on a client, I make sure they reach their end objective(s) (assignment/project/goal) and learn along the way.
+My previous clients, ranging from **students** to leading **professionals**, have been extremely satisfied with my way of teaching, coupled with my experience and dedication. I have a 100% success rate i.e. when I decide to take on a client, I make sure they reach their end objective(s) (assignment/project/goal) and learn along the way.
 
 Here are some of my clients' testimonials -
+
+>Nik is an outstanding math tutor who has greatly helped my son improve his math skills. His clear explanations, patience, and engaging teaching style have made a real difference. I highly recommend Nik to anyone looking for effective and supportive math tutoring!
+
+>Nik was the most amazing tutor, my Son learned so much from him and breezed through his leaving cert, his learning techniques are also great and easily understood.He was very accommodating. I would most highly recommend Nikunj. Thank you so much for everything.
 
 >_Excellent teacher! Great explanations, makes things easy to understand and patient._
 
