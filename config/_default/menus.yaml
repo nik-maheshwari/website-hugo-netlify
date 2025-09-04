@@ -7,21 +7,18 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Blog
+    url: /post
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: Services
+    url: /services
     weight: 12
-  - name: News
-    url: /#news
+  - name: Testimonials
+    url: /testimonials
     weight: 13
-  - name: Experience
-    url: experience/
+  - name: CV
+    url: uploads/resume.pdf
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Contact
+    url: /contact
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40

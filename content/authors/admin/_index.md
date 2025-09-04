@@ -54,16 +54,17 @@ interests:
 education:
   - area: PhD Computational Infection Biology
     institution: University College Dublin, Ireland
-    year_start: 2013
-    year_end: 2017
+    date_start: 2013-09-02
+    date_end: 2017-09-01
   - area: MSc in Bioinformatics
     institution: Kings College London, UK
-    year_start: 2011
-    year_end: 2012
+    date_start: 2011-08-25
+    date_end: 2012-09-01
   - area: BTech in Bioinformatics
     institution: SASTRA University, India
-    year_start: 2007
-    year_end: 2011
+    date_start: 2007-08-01
+    date_end: 2011-05-01
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -71,11 +72,23 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |1-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Senior Manager, Data Science
+    company_name: EY
+    company_url: "https://www.ey.com/en_ie"
+    location: Limerick/Dublin
+    date_start: 2020-11-11
+    date_end: 
+    summary: |1-
+      Responsibilities include:
+        - Provide data analytics services to Irish clients
+        - Currently working on high impact government projects
+        - Manage junior team members and provide insights to senior leadership
+    
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -125,43 +138,17 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
 Nik is an accomplished data scientist/solution architect with over 9 years of experience in hands-on experience, and leading and managing data science teams. He has proven track record of delivering high impact data science and analytics use cases (think Covid modelling, policy evaluations) that enable strategic transformation goals. He is adept at designing, developing and implementing analytics-as-a-service (AaaS) solutions that maximize the value of data. He has worked in several large-scale domains such as government, life sciences, advanced manufacturing, healthcare, food, and bioinformatics. His previous solutions have won Project of the Year Award or are commercially licensed.
+
+Apart from working full time, Nik enjoys `tutoring` and `mentoring` data science and computer science fundamentals to students and professionals as a part-time hobby. You can check out his public profile [here](https://www.firsttutors.com/ireland/tutor/nikunj.maths.computer-skills/). Please see [Services](/services) for more information or use the [Contact form](/#contact) for a free consultation.
